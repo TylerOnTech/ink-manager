@@ -1,4 +1,6 @@
-Tattoo Artist Scheduler - SaaS Platform
+#Tattoo Artist Scheduler
+SaaS Platform
+
 This modern, all-in-one scheduling platform was designed specifically for tattoo artists to streamline their business operations. This application provides tools for managing appointments, handling payments, organizing designs, and communicating with clients—all within a single, user-friendly interface.
 
 Features
